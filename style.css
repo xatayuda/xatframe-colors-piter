@@ -55,10 +55,9 @@ body {
 
 .image-container img {
     height: 25%;
-    width: 50%;
-    max-width: 400px;
-    border-radius: 20px;
-    margin-left: 2rem;
+    max-width: 250px;
+    border-radius: 50px;
+    margin-left: 5rem;
     margin-top: 0;
 }
 
