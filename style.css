@@ -54,8 +54,10 @@ body {
 }
 
 .image-container img {
-    width: 80%;
+    width: 50%;
     max-width: 400px;
+    border-radius: 20px;
+    margin-left: 2rem;
 }
 
 .text-container {
